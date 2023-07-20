@@ -19,9 +19,9 @@ def strcounter(s):
         print(sym, count)
 strcounter('abckf')
 
-import os
-a = os.path.dirname(__file__)
-print(a)
+"""
+fgffgfgfg
+"""
 
 
 
